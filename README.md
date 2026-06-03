@@ -24,4 +24,3 @@ Após trocar as perguntadas, é realizado a BUID no REACT com o comando npm `run
 
 Depois de fazer o Build, aplica no GitHub a atualização no React.
 
-# FIM
